@@ -19,5 +19,9 @@ public class ReflectSample {
         sayMethod.invoke(robot,"我是中国人");
 
         Method[] methods = robotClass.getMethods();
+
+
+
+
     }
 }
